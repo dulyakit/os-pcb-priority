@@ -17,8 +17,7 @@ release-note:
 ### `release-note.text`
 
 project demo:
-
-https://rmuti.ac.th/student/dulyakit.ph/React-Os/
+-
 
 #
 Architectural design and development by:
